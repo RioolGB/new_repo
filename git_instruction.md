@@ -68,3 +68,9 @@ git push
 ```sh
 git pull
 ```
+
+Удалить ветку удаленного репозитория
+
+```sh
+git push origin --delete <имя_ветки>
+```
